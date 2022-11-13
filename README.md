@@ -1,0 +1,2 @@
+# GoInstaller
+Go Installer application
